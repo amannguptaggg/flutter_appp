@@ -4,6 +4,7 @@ void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
+  // this is the new commit to the file in the flutter demo project
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
